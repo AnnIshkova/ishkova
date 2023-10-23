@@ -1,6 +1,5 @@
 Bar.Quux(object)
-Baz.Quux(params 
-)
+Baz.Quux(params)
 
 
 
