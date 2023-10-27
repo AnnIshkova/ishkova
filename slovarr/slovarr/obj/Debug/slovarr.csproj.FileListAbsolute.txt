@@ -1,0 +1,7 @@
+C:\Users\Azerty\source\repos\slovarr\slovarr\bin\Debug\slovarr.exe.config
+C:\Users\Azerty\source\repos\slovarr\slovarr\bin\Debug\slovarr.exe
+C:\Users\Azerty\source\repos\slovarr\slovarr\bin\Debug\slovarr.pdb
+C:\Users\Azerty\source\repos\slovarr\slovarr\obj\Debug\slovarr.csproj.AssemblyReference.cache
+C:\Users\Azerty\source\repos\slovarr\slovarr\obj\Debug\slovarr.csproj.CoreCompileInputs.cache
+C:\Users\Azerty\source\repos\slovarr\slovarr\obj\Debug\slovarr.exe
+C:\Users\Azerty\source\repos\slovarr\slovarr\obj\Debug\slovarr.pdb
