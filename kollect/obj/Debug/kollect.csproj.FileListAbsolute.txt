@@ -1,0 +1,7 @@
+C:\Users\Azerty\source\repos\kollect\kollect\bin\Debug\kollect.exe.config
+C:\Users\Azerty\source\repos\kollect\kollect\bin\Debug\kollect.exe
+C:\Users\Azerty\source\repos\kollect\kollect\bin\Debug\kollect.pdb
+C:\Users\Azerty\source\repos\kollect\kollect\obj\Debug\kollect.csproj.AssemblyReference.cache
+C:\Users\Azerty\source\repos\kollect\kollect\obj\Debug\kollect.csproj.CoreCompileInputs.cache
+C:\Users\Azerty\source\repos\kollect\kollect\obj\Debug\kollect.exe
+C:\Users\Azerty\source\repos\kollect\kollect\obj\Debug\kollect.pdb
